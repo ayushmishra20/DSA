@@ -1,4 +1,4 @@
-# DSA-WITH-JAVA
+# DSA
 
 This repository contains my Java practice programs and Data Structures & Algorithms exercises as I continue learning in 2026.
 
